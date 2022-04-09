@@ -65,7 +65,7 @@ case "$1" in   	                           # Checking options
 [-h | --htb]   Connect to HackTheBox VPN
 [-s | --start] Connect to StartPointHTB VPN
 [-t | --thm]   Connect to TryHackMe VPN
-[-r | --release-arena] Connect to ReleaseArena VPN
+[-r | --release-arena] Connect to ReleaseArenaHTB VPN
 [-v | --version] Display the version of your connect file
 [-help | --help] Display this message"
 	exit 0
@@ -82,6 +82,6 @@ echo "Usage: $0 -h
 [-h | --htb]   Connect to HackTheBox VPN
 [-s | --start] Connect to StartPointHTB VPN
 [-t | --thm]   Connect to TryHackMe VPN
-[-r | --release-arena] Connect to ReleaseArena VPN
+[-r | --release-arena] Connect to ReleaseArenaHTB VPN
 [-v | --version] Display the version of your connect file
 [-help | --help] Display this message"
