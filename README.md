@@ -12,7 +12,7 @@ Usage: connect -h
 | -h | --htb |   Connect to HackTheBox VPN |
 | -s | --start | Connect to StartPointHTB VPN |
 | -t | --thm |   Connect to TryHackMe VPN |
-| -r | --release-arena | Connect to ReleaseArena VPN |
+| -r | --release-arena | Connect to ReleaseArenaHTB VPN |
 | -v | --version | Display the version of your connect file |
 | -help | --help | Display a message help |
 
