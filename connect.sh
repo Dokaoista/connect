@@ -60,6 +60,10 @@ case "$1" in   	                           # Checking options
 	fi
 	exit 0
 	;;
+	-v | --version)
+	echo "Connect version 1.0"
+	exit 0
+	;;
 	-help | --help)
 	echo "Usage: $0 -h
 [-h | --htb]   Connect to HackTheBox VPN
