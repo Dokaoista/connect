@@ -53,7 +53,7 @@ case "$1" in   	                           # Checking options
         then
                 cat $path_release_arena | sh
         else
-                read -p "Path of your ReleaseArena VPN file: " path
+                read -p "Path of your ReleaseArenaHTB VPN file: " path
                 mkdir ~/.connect
                 echo "sudo openvpn $path" > $path_release_arena
                 cat $path_release_arena | sh
