@@ -1,7 +1,7 @@
 # Script for CTF players
 # connect
 
-connect is a script created for more praticy in connect to our CTFs VPN files.
+connect is a script created for more praticy in connect to our CTF VPN files.
 
 # Usage
 
