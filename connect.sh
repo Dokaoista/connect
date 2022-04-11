@@ -82,7 +82,7 @@ case "$1" in   	                           # Checking options
 	exit 0
 	;;
 	-v | --version)
-	echo "Connect version 1.0"
+	echo "Connect version 1.1"
 	exit 0
 	;;
 	-R | --reset-vpn)
