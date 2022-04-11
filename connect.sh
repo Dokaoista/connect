@@ -96,6 +96,7 @@ case "$1" in   	                           # Checking options
 		if [[ -e ~/.connect/path_htb.txt ]]
 		then
 			rm ~/.connect/path_htb.txt
+			echo "File removed"
 		else
 			echo "File not found"
 		fi
@@ -104,6 +105,7 @@ case "$1" in   	                           # Checking options
 		if [[ -e ~/.connect/path_sp.txt ]]
 		then
 			rm ~/.connect/path_sp.txt
+			echo "File removed"
 		else
 			echo "File not found"
 		fi
@@ -112,6 +114,7 @@ case "$1" in   	                           # Checking options
 		if [[ -e ~/.connect/path_thm.txt ]]
 		then
 			rm ~/.connect/path_thm.txt
+			echo "File removed"
 		else
 			echo "File not found"
 		fi
@@ -120,6 +123,7 @@ case "$1" in   	                           # Checking options
 		if [[ -e ~/.connect/path_release_arena.txt ]]
 		then
 			rm ~/.connect/path_release_arena.txt
+			echo "File removed"
 		else
 			echo "File not found"
 		fi
