@@ -13,6 +13,7 @@ Usage: connect -h
 | -s | --start | Connect to StartPointHTB VPN |
 | -t | --thm |   Connect to TryHackMe VPN |
 | -r | --release-arena | Connect to ReleaseArenaHTB VPN |
+| -R | --reset-vpn | Remove a configuration file and reset it to connect to a new VPN file |
 | -v | --version | Display the version of your connect file |
 | -help | --help | Display a message help |
 
