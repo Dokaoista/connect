@@ -11,7 +11,6 @@ path_htb="$HOME/.connect/path_htb.txt"
 path_sp="$HOME/.connect/path_sp.txt"
 path_thm="$HOME/.connect/path_thm.txt"
 path_release_arena="$HOME/.connect/path_release_arena.txt"
-path_desec="$HOME/.connect/path_desec.txt"
 case "$1" in   	                           # Checking options
   -h | --htb)
 	if [[ -e $path_htb ]]	           # Checking file to connect in the VPN   
