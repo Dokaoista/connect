@@ -31,11 +31,11 @@ After have you passed the path of VPN file, the script will be executed and don'
 git clone https://github.com/DokaTerrorista/connect.git/
 chmod +x connect/connect.sh
 sudo cp connect/connect.sh /usr/bin/connect
-rm -r connect/
+sudo rm -r connect/
 ```
 
 - One Line
 
 ```
-git clone https://github.com/DokaTerrorista/connect.git/ && chmod +x connect/connect.sh && sudo cp connect/connect.sh /usr/bin/connect && rm -r connect/
+git clone https://github.com/DokaTerrorista/connect.git/ && chmod +x connect/connect.sh && sudo cp connect/connect.sh /usr/bin/connect && sudo rm -r connect/
 ```
